@@ -1,6 +1,1 @@
-1) Smallest and Largest Element in the arary
-2) Second Smallest and Largest Element in the array
-3) check array is sorted or not
-4) Remove duplicates from sorted array
-5) Left Rotate Array by one, ktimes
-6) Right rotate array by one ktimes
+Python Programming is present in branches not here
